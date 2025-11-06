@@ -1,16 +1,2 @@
-{"timestamp": "19:30:39.538", "elapsed_s": 0, "frame": 60, "screen_size": [1280, 720]}
-{"timestamp": "19:30:39.556", "elapsed_s": 0, "frame": 120, "screen_size": [1280, 720]}
-{"timestamp": "19:30:39.574", "elapsed_s": 0, "frame": 180, "screen_size": [1280, 720]}
-{"timestamp": "19:30:39.592", "elapsed_s": 0, "frame": 240, "screen_size": [1280, 720]}
-{"timestamp": "19:30:39.608", "elapsed_s": 0, "frame": 300, "screen_size": [1280, 720]}
-{"timestamp": "19:30:39.626", "elapsed_s": 0, "frame": 360, "screen_size": [1280, 720]}
-{"timestamp": "19:30:39.641", "elapsed_s": 0, "frame": 420, "screen_size": [1280, 720]}
-{"timestamp": "19:30:39.658", "elapsed_s": 0, "frame": 480, "screen_size": [1280, 720]}
-{"timestamp": "19:30:39.674", "elapsed_s": 0, "frame": 540, "screen_size": [1280, 720]}
-{"timestamp": "19:30:39.692", "elapsed_s": 0, "frame": 600, "screen_size": [1280, 720]}
-{"timestamp": "19:30:39.708", "elapsed_s": 0, "frame": 660, "screen_size": [1280, 720]}
-{"timestamp": "19:30:39.725", "elapsed_s": 0, "frame": 720, "screen_size": [1280, 720]}
-{"timestamp": "19:30:39.740", "elapsed_s": 0, "frame": 780, "screen_size": [1280, 720]}
-{"timestamp": "19:30:39.757", "elapsed_s": 0, "frame": 840, "screen_size": [1280, 720]}
-{"timestamp": "19:30:39.773", "elapsed_s": 0, "frame": 900, "screen_size": [1280, 720]}
-{"timestamp": "19:30:39.790", "elapsed_s": 0, "frame": 960, "screen_size": [1280, 720]}
+{"timestamp": "22:21:26.212", "elapsed_s": 1, "frame": 60, "screen_size": [1280, 720], "updatable": {"count": 1, "sprites": [{"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": 0}]}, "drawable": {"count": 1, "sprites": [{"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": 0}]}}
+{"timestamp": "22:21:27.179", "elapsed_s": 1, "frame": 120, "screen_size": [1280, 720], "updatable": {"count": 1, "sprites": [{"type": "Player", "pos": [699.65, 321.03], "vel": [0.0, 0.0], "rad": 20, "rot": -231.9}]}, "drawable": {"count": 1, "sprites": [{"type": "Player", "pos": [699.65, 321.03], "vel": [0.0, 0.0], "rad": 20, "rot": -231.9}]}}
